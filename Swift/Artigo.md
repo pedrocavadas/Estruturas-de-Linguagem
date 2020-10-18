@@ -1,2 +1,2 @@
 # Swift
-![Swift](https://dwglogo.com/wp-content/uploads/2017/04/Swift_logo_01.png)
+![Swift](https://miro.medium.com/max/800/1*KLrw9Oy3qxuBGqrVKXGL_A.png)
