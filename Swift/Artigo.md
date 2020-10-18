@@ -10,6 +10,7 @@ Swift é uma linguagem de programação multiparadigma desenvolvida pela Apple e
 ### Origem
 
 Foi criada em 2014 por Chris Lattner, se inspirando em linguagens como Rust, Haskell, Ruby, Python, C#, CLU, e, claro, Objective-C. O objetivo era criar uma linguagem rápida e moderna, sem a corpulência e dinamicidade de Objective-C, e isso é refletido em alguns de seus conceitos: foi construída com uma sintaxe mais enxuta, além de não necessitar de ponto e vírgula ao final de cada linha.
+
 Outro objetivo importante era que fosse a primeira linguagem aprendida por novos programadores, e por isso, é bem simples e expressiva, contando até com um REPL modernizado, chamado "Playground", onde linhas de código podem ser escritas e seus resultados expressos imediatamente. Não é à toa que algumas universidades mundo afora já incorporaram Swift em seus cursos de programação.
 
 
